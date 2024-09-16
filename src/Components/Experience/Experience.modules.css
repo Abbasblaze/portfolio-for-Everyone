@@ -1,0 +1,79 @@
+.Experience {
+  text-align: center;
+  margin-top: 209px;
+}
+
+.Experience h1 {
+  font-family: Poppins;
+  font-size: 34px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.3799999952316284px;
+  text-align: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 31px;
+}
+
+.tabs {
+  margin-top: 154px;
+}
+
+.card-Container {
+  margin-top: 260px;
+}
+
+.Experiencecard {
+  background-color: #232732;
+  width: 344px;
+  height: 369px;
+  gap: 0px;
+  border-radius: 24px;
+  border: 2px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  margin-left: 20px;
+}
+
+.card-One {
+  background-color: #232732;
+  width: 344px;
+  height: 369px;
+  gap: 0px;
+  border-radius: 24px;
+  border: 2px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  margin-top: 38px;
+  margin-right: 20px;
+}
+
+.title {
+  font-family: Poppins;
+  font-size: 21px;
+  font-weight: 600;
+  line-height: 24px;
+  letter-spacing: 0.3799999952316284px;
+  text-align: center;
+  color: #999999;
+}
+
+.company {
+  font-family: Poppins;
+  font-size: 17px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0.3799999952316284px;
+  text-align: center;
+  color: #999999;
+}
+
+.Experiencepara {
+  width: 298px;
+  height: 266px;
+  font-family: Poppins;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 19px;
+  letter-spacing: 0.3799999952316284px;
+  color: #999999;
+  text-align: center;
+}

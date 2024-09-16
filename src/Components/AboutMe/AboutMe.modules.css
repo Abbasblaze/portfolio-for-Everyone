@@ -1,0 +1,38 @@
+.AboutMe {
+  display: flex;
+  font-family: Poppins;
+  margin-top: 154px;
+}
+
+.profile-image {
+  background-color: #252525;
+  box-shadow: 1px 5px 15px #0b0b0b, -1px -5px 10px #41465b,
+    inset 5px 5px 10px #212121, inset -5px -5px 10px #212121;
+  width: 429.59px;
+}
+
+.text-section h2 {
+  width: 172px;
+  height: 24px;
+  font-family: Poppins;
+  font-size: 34px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.3799999952316284px;
+  text-align: center;
+}
+
+.text-section p {
+  width: 456px;
+  height: 280px;
+  font-family: Poppins;
+  font-size: 21px;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 0.3799999952316284px;
+  margin-top: 42px;
+}
+
+/* @media screen and (max-width: 768px); {
+
+} */

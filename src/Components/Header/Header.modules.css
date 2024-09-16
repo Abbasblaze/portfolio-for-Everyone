@@ -1,0 +1,90 @@
+.profile {
+  margin: 147px auto 0 auto;
+  text-align: center;
+}
+
+.profile-pic {
+  width: 474px;
+  height: 474px;
+  border-radius: 317px;
+  box-shadow: 1px 5px 15px #0b0b0b, -1px -5px 10px #41465b,
+    inset 5px 5px 10px #212121, inset -5px -5px 10px #212121;
+}
+
+.Hey {
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.38px;
+  color: white;
+  margin: 55px auto 0 auto;
+}
+
+.intro-text h1 {
+  font-family: Poppins;
+  font-size: 62px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: 0.38px;
+  color: white;
+  margin: 64px auto 0 auto;
+}
+
+.intro-text h2 {
+  font-family: Poppins;
+  font-size: 38px;
+  font-weight: 500;
+  line-height: 1.4;
+  letter-spacing: 0.38px;
+  color: white;
+  margin: 28px auto 0 auto;
+}
+
+.intro-text .highlight {
+  color: #f45552;
+  font-weight: bold;
+  border-right: 5px solid #f45552;
+}
+
+.description {
+  width: 695px;
+  height: 112px;
+  font-family: Poppins;
+  font-size: 21px;
+  font-weight: 300;
+  line-height: 1.5;
+  letter-spacing: 0.38px;
+  color: white;
+  margin: 28px auto 0 auto;
+  text-align: center;
+}
+
+.Leanbutton {
+  margin-top: 45px;
+}
+
+.contact-me {
+  margin-left: 78px;
+}
+
+.btns {
+  width: 170px;
+  height: 63px;
+  text-decoration: none;
+  border-radius: 24px;
+  background-color: #2d2f36;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 0.38px;
+  box-shadow: 1px 5px 15px #0b0b0b, -1px -5px 10px #41465b,
+    inset 5px 5px 10px #212121, inset -5px -5px 10px #212121;
+  transition: all 0.3s ease;
+}
+
+.btns:hover {
+  background-color: #3c3f47;
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.35);
+  transform: translateY(-2px);
+}

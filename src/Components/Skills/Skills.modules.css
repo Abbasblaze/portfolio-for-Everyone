@@ -1,0 +1,59 @@
+.skills-container {
+  text-align: center;
+  margin-top: 264px;
+}
+
+.SkillsprogressBar {
+  height: 5px;
+  background: linear-gradient(to right, #6a00ff, #ff9700);
+  margin-bottom: 50px;
+}
+
+.skills-container h1 {
+  font-family: Poppins;
+  font-size: 34px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.3799999952316284px;
+  text-align: center;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 31px;
+}
+
+.languages-btn {
+  background-color: #6c5ce7;
+  border: none;
+  color: white;
+  width: 253.43px;
+  height: 56px;
+  border-radius: 25px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  margin-top: 87px;
+  transition: background-color 0.3s ease;
+}
+
+.languages-btn:hover {
+  background-color: #7c71df;
+}
+
+.carousel {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 193px;
+}
+
+.image-container {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.skills-image {
+  width: 332px;
+  height: 332px;
+  border-radius: 316px;
+  border: 1px;
+}

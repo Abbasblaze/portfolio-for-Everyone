@@ -1,0 +1,125 @@
+.MyProjects {
+  padding: 30px;
+  margin-top: 188px;
+}
+
+.MyProjects h1 {
+  font-family: Poppins;
+  font-size: 34px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.3799999952316284px;
+  margin-bottom: 20px;
+}
+.progress-bar {
+  height: 5px;
+  background: linear-gradient(to right, #6a00ff, #ff9700);
+  margin-bottom: 50px;
+}
+
+.tabs {
+  display: flex;
+  justify-content: center;
+}
+
+.tab {
+  width: 253.43px;
+  height: 56px;
+  border-radius: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  border-radius: 24px;
+  background-color: #2d2f36;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 500;
+  letter-spacing: 0.38px;
+  text-align: center;
+  box-shadow: 1px 5px 15px #0b0b0b, -1px -5px 10px #41465b,
+    inset 5px 5px 10px #212121, inset -5px -5px 10px #212121;
+
+  transition: all 0.3s ease;
+}
+
+.tab:hover {
+  background-color: #3c3f47;
+  box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.35);
+  transform: translateY(-2px);
+}
+
+.tab.active {
+  background-color: #6a00ff;
+}
+
+.content {
+  display: flex;
+  margin-top: 165px;
+  margin-left: 100px;
+
+  gap: 50px;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.circle-image {
+  width: 157px;
+  height: 157px;
+  border-radius: 50%;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+}
+
+.main-content {
+  flex-grow: 1;
+}
+
+.card {
+  background-color: #232732;
+  box-shadow: 1px 5px 15px #0b0b0b, -1px -5px 10px #41465b,
+    inset 5px 5px 10px #212121, inset -5px -5px 10px #212121;
+  width: 465.6px;
+  height: 543.2px;
+  text-align: center;
+}
+
+.card-image {
+  width: 406.34px;
+  height: 304.76px;
+  border-radius: 16px;
+  object-fit: contain;
+  margin-bottom: 50px;
+}
+
+.card-title {
+  font-family: Poppins;
+  font-size: 26px;
+  font-weight: 600;
+  line-height: 15px;
+  letter-spacing: 0.3799999952316284px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.card-description {
+  font-family: Poppins;
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 25px;
+  letter-spacing: 0.3799999952316284px;
+  text-align: center;
+}
+
+.github-icon img {
+  width: 52px;
+  height: 50px;
+}
+
+.github-icon {
+  display: inline-block;
+  margin-top: 10px;
+}
