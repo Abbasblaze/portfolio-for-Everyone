@@ -2,6 +2,7 @@
   display: flex;
   font-family: Poppins;
   margin-top: 154px;
+  margin-left: 200px;
 }
 
 .profile-image {
@@ -20,6 +21,7 @@
   line-height: 24px;
   letter-spacing: 0.3799999952316284px;
   text-align: center;
+  margin-left: 140px;
 }
 
 .text-section p {
@@ -31,8 +33,5 @@
   line-height: 28px;
   letter-spacing: 0.3799999952316284px;
   margin-top: 42px;
+  margin-left: 140px;
 }
-
-/* @media screen and (max-width: 768px); {
-
-} */

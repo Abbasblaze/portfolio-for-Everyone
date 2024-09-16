@@ -16,8 +16,8 @@
 .Certifications-Imgs {
   display: flex;
   align-items: center;
-
-  margin-top: 188px;
+  justify-content: space-between;
+  margin-top: 118px;
 }
 
 .LeftOne {

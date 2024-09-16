@@ -29,6 +29,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: 0 auto;
   text-decoration: none;
   border-radius: 24px;
   background-color: #2d2f36;
@@ -85,6 +86,7 @@
   width: 465.6px;
   height: 543.2px;
   text-align: center;
+  margin-left: 240px;
 }
 
 .card-image {
