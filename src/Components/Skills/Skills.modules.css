@@ -68,3 +68,41 @@
     margin-right: 20px;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .skills-container {
+    margin: 81px auto;
+  }
+  .skills-container h1 {
+    width: 45px;
+    height: 24px;
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.3799999952316284px;
+    text-align: center;
+    margin: 6px auto;
+  }
+  .skills-image {
+    width: 108.21px;
+    height: 108.21px;
+  }
+
+  .languages-btn {
+    width: 77.9px;
+    height: 35.66px;
+    border-radius: 24px;
+    font-family: Poppins;
+    font-size: 9px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0.3799999952316284px;
+    text-align: center;
+    margin: 19px auto;
+  }
+
+  .carousel {
+    margin: 22px auto;
+  }
+}

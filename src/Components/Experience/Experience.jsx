@@ -17,14 +17,14 @@ function Experience() {
     <h1 className="title">Technical Content Writer</h1>
     <p className="company">GeeksforGeeks | 11-2023 – 02-2024</p>
     <p className="Experiencepara">
-      As a content creator, Ive authored and published numerous articles on technical topics like Power BI, Python, Data Science, and Machine Learning. My focus is on simplifying complex concepts, ensuring accessibility for all audiences. Each article is carefully crafted to translate intricate jargon into easily understandable terms, fostering a deep understanding. I stay current with the latest developments in these fields, delivering up-to-date content that empowers readers to navigate and excel in the ever-evolving landscape of technology.
+      As a content creator, Ive authored and published numerous articles on technical topics like Power BI, Python, Data Science, and Machine Learning. My focus is on simplifying complex concepts, ensuring accessibility for all audiences. Each article is carefully crafted to translate intricate jargon into easily understandable terms, fostering a deep understanding. I stay current with the latest developments in these fields.
     </p>
   </div>
   <div className="card-One">
     <h1 className="title">Technical Content Writer</h1>
     <p className="company">GeeksforGeeks | 11-2023 – 02-2024</p>
     <p className="Experiencepara">
-      As a content creator, Ive authored and published numerous articles on technical topics like Power BI, Python, Data Science, and Machine Learning. My focus is on simplifying complex concepts, ensuring accessibility for all audiences. Each article is carefully crafted to translate intricate jargon into easily understandable terms, fostering a deep understanding. I stay current with the latest developments in these fields, delivering up-to-date content that empowers readers to navigate and excel in the ever-evolving landscape of technology.
+      As a content creator, Ive authored and published numerous articles on technical topics like Power BI, Python, Data Science, and Machine Learning. My focus is on simplifying complex concepts, ensuring accessibility for all audiences. Each article is carefully crafted to translate intricate jargon into easily understandable terms, fostering a deep understanding. I stay current with the latest developments in these fields, delivering up-to-date content that empowers readers to navigate.
     </p>
   </div>
   </div>

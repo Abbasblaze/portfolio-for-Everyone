@@ -144,6 +144,9 @@
     height: 56px;
     border-radius: 24px;
   }
+  .github-icon {
+    display: none;
+  }
 }
 
 @media screen and (max-width: 425px) {
@@ -186,7 +189,7 @@
     letter-spacing: 0.3799999952316284px;
     text-align: center;
   }
-  .github-icon img {
+  .github-icon {
     display: none;
   }
 

@@ -18,8 +18,10 @@
 .Certifications-Imgs {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  /* justify-content: space-between; */
+  gap: 50px;
   margin-top: 118px;
+  margin-left: 230px;
 }
 
 .LeftOne {
@@ -44,5 +46,45 @@
   .Center {
     width: 300px;
     height: 259px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .Certifications-Imgs {
+    display: flex;
+    align-items: center;
+
+    margin: 6px auto 0 35px;
+  }
+  .certificationsConatiner {
+    margin: 31px auto;
+  }
+
+  .certificationsConatiner h1 {
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.3799999952316284px;
+    text-align: center;
+    margin: 6px auto;
+  }
+
+  .LeftOne {
+    width: 58.64px;
+    height: 41.18px;
+    border-radius: 6px;
+  }
+
+  .Center {
+    width: 109.09px;
+    height: 76.09px;
+    border-radius: 6px;
+  }
+
+  .RightOne {
+    width: 58.64px;
+    height: 41.18px;
+    border-radius: 6px;
   }
 }
