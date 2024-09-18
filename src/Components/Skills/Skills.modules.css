@@ -57,3 +57,14 @@
   border-radius: 316px;
   border: 1px;
 }
+
+@media screen and (max-width: 768px) {
+  .languages-btn {
+    width: 180px;
+    height: 56px;
+  }
+
+  .skills-container h1 {
+    margin-right: 20px;
+  }
+}
