@@ -55,10 +55,8 @@
 }
 
 .content {
-  display: flex;
   margin-top: 165px;
   margin-left: 100px;
-
   gap: 50px;
 }
 
@@ -152,14 +150,24 @@
   .MyProjects {
     margin: 52px auto;
   }
+
+  .content {
+    margin: 51px auto;
+  }
+
+  .sidebar {
+    margin-left: 90px;
+  }
   .card {
     width: 224px;
     height: 261.33px;
+    margin-left: 90px;
   }
   .card-image {
     width: 195.49px;
     height: 146.62px;
     border-radius: 16px;
+    margin-bottom: 10px;
   }
   .card-title {
     font-family: Poppins;
@@ -178,14 +186,14 @@
     letter-spacing: 0.3799999952316284px;
     text-align: center;
   }
-  .github-icon {
-    width: 25.02px;
-    height: 24.05px;
+  .github-icon img {
+    display: none;
   }
 
   .circle-image {
     width: 50.34px;
     height: 50.34px;
+    margin-top: 51px auto;
   }
 
   .tab {
@@ -197,6 +205,7 @@
     line-height: 24px;
     letter-spacing: 0.3799999952316284px;
     text-align: center;
+    margin-bottom: 29px;
   }
 
   .MyProjects h1 {

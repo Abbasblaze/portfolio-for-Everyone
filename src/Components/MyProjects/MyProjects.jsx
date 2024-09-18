@@ -10,9 +10,9 @@ function MyProjects() {
 
 
         <div className="tabs">
-            <a href="#" className="tab active">Contact</a>
-            <a href="#" className="tab">Resume</a>
-            <a href="#" className="tab">About</a>
+            <a href="#" className="tab active">Python</a>
+            <a href="#" className="tab">Machine</a>
+            <a href="#" className="tab">NLP</a>
         </div>
 
         <div className="content">
