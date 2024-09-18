@@ -125,3 +125,25 @@
   display: inline-block;
   margin-top: 10px;
 }
+
+@media screen and (max-width: 768px) {
+  .content {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .sidebar {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .card {
+    margin: 0 auto 0 20px;
+  }
+
+  .tab {
+    width: 150px;
+    height: 56px;
+    border-radius: 24px;
+  }
+}

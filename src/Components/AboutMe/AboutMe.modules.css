@@ -35,3 +35,29 @@
   margin-top: 42px;
   margin-left: 140px;
 }
+
+@media screen and (max-width: 768px) {
+  .AboutMe {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .text-section h2 {
+    font-family: Poppins;
+    font-size: 24 px;
+    font-weight: 500;
+    line-height: 24px;
+
+    text-align: center;
+    margin: 50px auto;
+  }
+
+  .text-section p {
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 500;
+    /* line-height: 16px; */
+    text-align: center;
+    margin: 50px auto;
+  }
+}

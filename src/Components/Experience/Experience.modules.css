@@ -43,7 +43,7 @@
   border: 2px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
   margin-top: 38px;
-  margin-right: 20px;
+  margin-left: auto;
 }
 
 .title {
@@ -76,4 +76,6 @@
   letter-spacing: 0.3799999952316284px;
   color: #999999;
   text-align: center;
+  margin-left: 25px;
+  margin-top: 10px;
 }

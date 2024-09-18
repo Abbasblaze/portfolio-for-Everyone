@@ -8,6 +8,7 @@ function MyProjects() {
         <h1>Projects</h1>
         <div className="progress-bar"></div>
 
+
         <div className="tabs">
             <a href="#" className="tab active">Contact</a>
             <a href="#" className="tab">Resume</a>
