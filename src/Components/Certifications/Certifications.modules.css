@@ -11,6 +11,8 @@
   letter-spacing: 0.3799999952316284px;
   text-align: center;
   margin-bottom: 31px;
+  display: flex;
+  justify-content: flex-start;
 }
 
 .Certifications-Imgs {
@@ -36,4 +38,11 @@
   width: 215px;
   height: 151px;
   border-radius: 24px;
+}
+
+@media screen and (max-width: 768px) {
+  .Center {
+    width: 300px;
+    height: 259px;
+  }
 }

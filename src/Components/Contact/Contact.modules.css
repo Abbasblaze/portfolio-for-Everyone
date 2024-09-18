@@ -100,3 +100,12 @@ textarea::placeholder {
   height: 171px;
   border-radius: 12px;
 }
+
+@media screen and (max-width: 768px) {
+  .contact-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 0 auto 0 130px;
+  }
+}
