@@ -47,13 +47,16 @@
     width: 300px;
     height: 259px;
   }
+
+  .Certifications-Imgs {
+    margin: 0 auto;
+  }
 }
 
 @media screen and (max-width: 425px) {
   .Certifications-Imgs {
     display: flex;
     align-items: center;
-
     margin: 6px auto 0 35px;
   }
   .certificationsConatiner {
