@@ -5,7 +5,7 @@ import AboutMe from './Components/AboutMe/AboutMe'
 // import Contact from './Components/Contact/Contact'
 // import Experience from './Components/Experience/Experience'
 import Header from './Components/Header/Header'
-// import MyProjects from './Components/MyProjects/MyProjects'
+import MyProjects from './Components/MyProjects/MyProjects'
 import Navigation from './Components/Navigation/Navigation'
 // import Skills from './Components/Skills/Skills'
 
@@ -17,7 +17,7 @@ function App() {
      <Navigation/>
      <Header/>
      <AboutMe/>
-     {/* <MyProjects/> */}
+     <MyProjects/>
     {/* <Skills/> */}
       {/* <Certifications/> */}
      {/* <Experience/> */}

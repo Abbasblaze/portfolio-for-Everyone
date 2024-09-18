@@ -56,8 +56,42 @@
     font-family: Poppins;
     font-size: 25px;
     font-weight: 500;
-    /* line-height: 16px; */
+    line-height: 16px;
     text-align: center;
     margin: 50px auto;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .AboutMe {
+    margin: 88px auto;
+  }
+
+  .profile-image {
+    width: 178px;
+    height: 178px;
+    margin: 0 auto 0 125px;
+  }
+
+  .text-section h2 {
+    font-family: Poppins;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.3799999952316284px;
+    text-align: center;
+    margin: 24px auto 0 125px;
+  }
+
+  .text-section p {
+    font-family: Poppins;
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 16px;
+    letter-spacing: 0.3799999952316284px;
+    text-align: center;
+    width: 252px;
+    height: 144px;
+    margin: 4px auto 0 95px;
   }
 }
